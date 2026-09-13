@@ -132,7 +132,7 @@ bun test
 
 ## Contributing
 
-Contributions are welcome! Please ensure that:
+Contributions are welcome. Please make sure that:
 1. You review the relevant specification in `docs/` before making architectural changes.
 2. All round-trip fidelity tests pass (`bun test`).
 3. Changes to `src/core/` remain completely free of React imports.
