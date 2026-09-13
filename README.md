@@ -143,4 +143,4 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for full details.
 
 ## License
 
-Manicule is licensed under the [MIT License](LICENSE).
+Manicule is licensed under the [MIT License](LICENSE). See the license file for the full text.
