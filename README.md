@@ -105,7 +105,7 @@ The plain Markdown text in CodeMirror 6 is the *only* document model. We conceal
 
 - **Bun** (recommended) or Node.js 20+
 - **Rust stable** toolchain with `cargo`
-- **Xcode Command Line Tools** (on macOS)
+- **Xcode Command Line Tools** on macOS (for native compilation)
 
 ### Running Locally
 
