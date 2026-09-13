@@ -74,7 +74,7 @@ The plain Markdown text in CodeMirror 6 is the *only* document model. We conceal
 - **Slash Commands (`/`)**: Type `/` to insert tables, diagrams, callouts, checklists, and code cards.
 - **Command Palette (`Cmd+K` / `Cmd+P` / `Ctrl+K` / `Ctrl+P`)**: Quick search, note switcher, and instant command execution.
 - **Writing Analytics**: Live word count, character count, and reading-time estimate in the status bar.
-- **Adaptive Themes**: Refined light and dark modes built on CSS custom properties.
+- **Adaptive Themes**: Light and dark modes driven by CSS custom properties.
 - **Atomic Saves**: Rust-powered atomic writes (`tempfile` -> `fsync` -> `rename`) with SHA-256 conflict detection.
 
 ---
