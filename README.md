@@ -72,7 +72,7 @@ The plain Markdown text in CodeMirror 6 is the *only* document model. We conceal
 - **Split Mode (`Cmd+3` / `Ctrl+3`)**: Side-by-side view with synchronized document state.
 - **Floating Selection Toolbar**: Instant formatting bubble for bold, italic, strikethrough, headings, and lists.
 - **Slash Commands (`/`)**: Quick block insertion for tables, diagrams, callouts, checklists, and code cards.
-- **Command Palette (`Cmd+K` / `Cmd+P`)**: Quick search, note switcher, and instant command execution.
+- **Command Palette (`Cmd+K` / `Cmd+P` / `Ctrl+K` / `Ctrl+P`)**: Quick search, note switcher, and instant command execution.
 - **Writing Analytics**: Live word count, character count, and estimated reading time.
 - **Adaptive Themes**: Refined light and dark modes built on CSS custom properties.
 - **Atomic Saves**: Rust-powered atomic writes (`tempfile` -> `fsync` -> `rename`) with SHA-256 conflict detection.
