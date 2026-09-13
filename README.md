@@ -103,7 +103,7 @@ The plain Markdown text in CodeMirror 6 is the *only* document model. We conceal
 
 ### Prerequisites
 
-- **Bun** (or Node.js 20+)
+- **Bun** (recommended) or Node.js 20+
 - **Rust stable** & `cargo`
 - **Xcode Command Line Tools** (on macOS)
 
