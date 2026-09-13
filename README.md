@@ -68,7 +68,7 @@ The plain Markdown text in CodeMirror 6 is the *only* document model. We conceal
 ## Features
 
 - **Hybrid Visual Mode (`Cmd+1` / `Ctrl+1`)**: Live concealment of syntax tokens (`**bold**`, `*italic*`, `~~strike~~`, `` `code` ``, `[links](url)`, `# headings`) with interactive Notion-style tables, bullet dots (`•`), checkboxes, and Mermaid diagrams.
-- **Raw Source Mode (`Cmd+2`)**: Full syntax-highlighted source editor with zero concealment.
+- **Raw Source Mode (`Cmd+2` / `Ctrl+2`)**: Full syntax-highlighted source editor with zero concealment.
 - **Split Mode (`Cmd+3`)**: Side-by-side view with synchronized document state.
 - **Floating Selection Toolbar**: Instant formatting bubble for bold, italic, strikethrough, headings, and lists.
 - **Slash Commands (`/`)**: Quick block insertion for tables, diagrams, callouts, checklists, and code cards.
