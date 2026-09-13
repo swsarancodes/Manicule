@@ -20,7 +20,7 @@ Get the latest stable desktop release directly from [**GitHub Releases**](https:
 | Platform | Format | Architecture | Direct Download |
 |---|---|---|---|
 | **macOS (Universal)** | `.dmg` | **Apple Silicon & Intel** *(Works on all Macs)* | [**Download Universal DMG**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_universal.dmg) |
-| **macOS (Apple Silicon)** | `.dmg` | Apple Silicon (M1/M2/M3/M4) | [**Download DMG (ARM64)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_aarch64.dmg) |
+| **macOS (Apple Silicon)** | `.dmg` | Apple Silicon (M1–M5) | [**Download DMG (ARM64)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_aarch64.dmg) |
 | **macOS (Intel)** | `.dmg` | Intel (x86_64) | [**Download DMG (x64)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_x64.dmg) |
 | **Windows** | `.exe` | Windows 64-bit Installer | [**Download Setup (.exe)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_x64-setup.exe) |
 | **Windows** | `.msi` | Windows 64-bit MSI Package | [**Download Package (.msi)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_x64_en-US.msi) |
