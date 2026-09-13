@@ -58,7 +58,7 @@ The plain Markdown text in CodeMirror 6 is the *only* document model. We conceal
 ## Core Principles
 
 1. **The file is the truth:** Plain `.md` on disk. No proprietary database, no lock-in.
-2. **Lossless or nothing:** Round-tripping any document produces byte-identical output (preserving line endings, BOM, formatting characters, and whitespace).
+2. **Lossless or nothing:** Round-tripping any document yields byte-identical output (line endings, BOM, formatting characters, and whitespace).
 3. **Local-first & offline-always:** No account, no cloud sync server required, zero telemetry.
 4. **Distraction-free:** Minimalist chrome, typography-focused measure (`78ch`), and immersive writing modes.
 5. **Fast at scale:** Viewport-scoped decoration rendering and incremental Lezer parsing.
