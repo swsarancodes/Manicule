@@ -124,7 +124,7 @@ bun run tauri dev
 ### Running Tests
 
 ```bash
-# Run lossless round-trip and fidelity property tests
+# Lossless round-trip and fidelity property tests
 bun test
 ```
 
