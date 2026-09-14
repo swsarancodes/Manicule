@@ -45,7 +45,7 @@ Most Markdown editors force a compromise:
 | Category | Typical Behavior | The Trade-off |
 |---|---|---|
 | **Split-pane** | Source text on the left, HTML preview on the right | Split attention: you read in one pane and write in another, with constant visual context switching. |
-| **WYSIWYG** | Parses Markdown into a rich-text tree (ProseMirror / Slate / Lexical) and re-serializes on save | **Lossy round-trip:** rewrites list markers, collapses custom whitespace, reformats front matter, and mangles raw HTML. |
+| **WYSIWYG** | Parses Markdown into a rich-text tree (ProseMirror / Slate / Lexical) and re-serializes on save | **Lossy round-trip:** rewrites list markers, collapses custom whitespace, reformats front matter, and can mangle raw HTML. |
 
 Manicule takes another path: **source-of-truth editing with live decorations**.
 
