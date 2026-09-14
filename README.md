@@ -90,7 +90,7 @@ The plain Markdown text in CodeMirror 6 is the only document model. We conceal s
 |     incremental parse · decoration mapping · node classifiers|
 +--------------------------------------------------------------+
 | L3  APP UI               React 19 + TypeScript + Zustand     |
-|     sidebar · tabs · command palette · status bar            |
+|     sidebar · tabs · command palette · status bar · themes   |
 +--------------------------------------------------------------+
 | L4  SHELL                Tauri v2 (Rust)                     |
 |     atomic FS · file watcher · native dialogs · packaging    |
