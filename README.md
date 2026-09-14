@@ -8,7 +8,7 @@ Manicule edits Markdown **visually** — no preview pane, no compile step, and n
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ```
-plain .md on disk  ·  no account  ·  zero telemetry  ·  works offline  ·  Git-friendly  ·  MIT licensed
+plain .md on disk  ·  no account  ·  no telemetry  ·  works offline  ·  Git-friendly  ·  MIT licensed
 ```
 
 ---
