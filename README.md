@@ -143,4 +143,4 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for the full guide.
 
 ## License
 
-Released under the [MIT License](LICENSE). See the license file for the full text.
+MIT. See [LICENSE](LICENSE) for the full text.
