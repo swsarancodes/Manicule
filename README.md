@@ -40,7 +40,7 @@ Get the latest stable desktop build for macOS, Windows, and Linux from [**GitHub
 
 ## Why Manicule?
 
-Traditional Markdown editors force a compromise:
+Most Markdown editors force a compromise:
 
 | Category | Typical Behavior | The Trade-off |
 |---|---|---|
