@@ -49,7 +49,7 @@ Typical Markdown editors force a compromise:
 
 Manicule takes a different path: **source-of-truth editing with live decorations**.
 
-The plain Markdown text in CodeMirror 6 is the only document model. We conceal syntax tokens visually and apply typography directly over the source text. You get visual WYSIWYG ergonomics while keeping 100% byte fidelity with disk and Git.
+Plain Markdown in CodeMirror 6 is the only document model. We conceal syntax tokens visually and apply typography directly over the source text. You get visual WYSIWYG ergonomics while keeping 100% byte fidelity with disk and Git.
 
 > **Correctness invariant:** If Manicule ever rewrites a line or marker you did not edit, that is a P0 defect.
 
