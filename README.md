@@ -25,7 +25,7 @@ Get the latest stable desktop build for macOS, Windows, and Linux from [**GitHub
 | **Windows** | `.exe` | 64-bit installer | [**Download Setup (.exe)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_x64-setup.exe) |
 | **Windows** | `.msi` | 64-bit MSI package | [**Download Package (.msi)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_x64_en-US.msi) |
 | **Linux** | `.AppImage` | x86_64 portable | [**Download AppImage**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_amd64.AppImage) |
-| **Linux** | `.deb` | Ubuntu / Debian Package | [**Download .deb**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_amd64.deb) |
+| **Linux** | `.deb` | Ubuntu / Debian package | [**Download .deb**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_amd64.deb) |
 
 > [!TIP]
 > **macOS First-Launch Note (Gatekeeper)**  
