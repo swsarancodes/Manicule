@@ -29,7 +29,7 @@ Grab the latest stable desktop build for macOS, Windows, and Linux from [**GitHu
 
 > [!TIP]
 > **macOS first-launch note (Gatekeeper)**  
-> Because Manicule is a community open-source project without a paid Apple Developer certificate, macOS Gatekeeper may show a warning the first time you open the app.  
+> Manicule is unsigned (no paid Apple Developer certificate), so Gatekeeper may warn on first open.  
 > - **Option 1**: Right-click (or Control-click) `Manicule.app` in `/Applications`, choose **Open**, then click **Open**.  
 > - **Option 2**: Run in Terminal:
 >   ```bash
