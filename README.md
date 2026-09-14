@@ -38,7 +38,7 @@ Grab the latest stable desktop build for macOS, Windows, and Linux from [**GitHu
 
 ---
 
-## Why Manicule?
+## Why this editor?
 
 Most Markdown editors force a compromise:
 
