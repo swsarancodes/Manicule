@@ -40,7 +40,7 @@ Grab the latest stable desktop build for macOS, Windows, and Linux from [**GitHu
 
 ## Why this editor?
 
-Most Markdown editors force a compromise:
+Typical Markdown editors force a compromise:
 
 | Category | Typical Behavior | The Trade-off |
 |---|---|---|
