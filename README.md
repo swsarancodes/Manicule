@@ -17,7 +17,7 @@ plain .md on disk  ·  no account  ·  no telemetry  ·  works offline  ·  Git-
 
 Grab the latest stable desktop build for macOS, Windows, and Linux from [**GitHub Releases**](https://github.com/swsarancodes/Maincule/releases/latest):
 
-| Platform | Format | Architecture | Direct Download |
+| Platform | Format | Architecture | Download |
 |---|---|---|---|
 | **macOS (Universal)** | `.dmg` | **Apple Silicon & Intel** *(works on all Macs)* | [**Download Universal DMG**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_universal.dmg) |
 | **macOS (Apple Silicon)** | `.dmg` | Apple Silicon (M1–M5) | [**Download DMG (ARM64)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_aarch64.dmg) |
