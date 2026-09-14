@@ -1,6 +1,6 @@
 # Manicule ☞
 
-> An open-source, distraction-free Markdown writing studio.
+> An open-source, distraction-free Markdown editor for focused writing.
 
 Manicule edits Markdown **visually** — no preview pane, no compile step, and no AST serialization — while treating your `.md` file as the single source of truth. Bytes you do not touch are bytes we do not rewrite.
 
