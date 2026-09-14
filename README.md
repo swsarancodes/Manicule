@@ -47,7 +47,7 @@ Typical Markdown editors force a compromise:
 | **Split-pane** | Source text on the left, HTML preview on the right | Split attention: you read in one pane and write in another, with constant visual context switching. |
 | **WYSIWYG** | Parses Markdown into a rich-text tree (ProseMirror / Slate / Lexical) and re-serializes on save | **Lossy round-trip:** rewrites list markers, collapses custom whitespace, reformats front matter, and can mangle raw HTML. |
 
-Manicule takes another path: **source-of-truth editing with live decorations**.
+Manicule takes a different path: **source-of-truth editing with live decorations**.
 
 The plain Markdown text in CodeMirror 6 is the only document model. We conceal syntax tokens visually and apply typography directly over the source text. You get visual WYSIWYG ergonomics while keeping 100% byte fidelity with disk and Git.
 
