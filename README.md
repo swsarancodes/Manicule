@@ -92,7 +92,7 @@ Plain Markdown in CodeMirror 6 is the only document model. We conceal syntax tok
 | L3  APP UI               React 19 + TypeScript + Zustand     |
 |     sidebar · tabs · command palette · status bar · themes   |
 +--------------------------------------------------------------+
-| L4  SHELL                Tauri v2 (Rust)                     |
+| L4  DESKTOP SHELL        Tauri v2 (Rust)                     |
 |     atomic FS · file watcher · native dialogs · packaging    |
 +--------------------------------------------------------------+
 ```
