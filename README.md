@@ -110,7 +110,7 @@ The plain Markdown text in CodeMirror 6 is the only document model. We conceal s
 ### Running Locally
 
 ```bash
-# 1. Clone the repository
+# 1. Clone
 git clone https://github.com/swsarancodes/Maincule.git
 cd Maincule
 
