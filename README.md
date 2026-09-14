@@ -137,7 +137,7 @@ Contributions are welcome. Please make sure that:
 2. Keep round-trip fidelity tests passing (`bun test`).
 3. Changes to `src/core/` stay free of React imports.
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for full details.
+See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for the full guide.
 
 ---
 
