@@ -117,7 +117,7 @@ cd Maincule
 # 2. Install dependencies
 bun install
 
-# 3. Start the Tauri development desktop app
+# 3. Start the Tauri desktop app
 bun run tauri dev
 ```
 
