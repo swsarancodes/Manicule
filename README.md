@@ -55,7 +55,7 @@ Plain Markdown in CodeMirror 6 is the only document model. We conceal syntax tok
 
 ---
 
-## Core Principles
+## Principles
 
 1. **The file is the truth:** Plain `.md` on disk. No proprietary database and no lock-in.
 2. **Lossless or nothing:** Round-tripping any document yields byte-identical output, including line endings, BOM, formatting characters, and whitespace.
