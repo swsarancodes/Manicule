@@ -21,7 +21,7 @@ Grab the latest stable desktop build for macOS, Windows, and Linux from [**GitHu
 |---|---|---|---|
 | **macOS (Universal)** | `.dmg` | **Apple Silicon & Intel** *(works on all Macs)* | [**Download Universal DMG**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_universal.dmg) |
 | **macOS (Apple Silicon)** | `.dmg` | Apple Silicon (M-series) | [**Download DMG (ARM64)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_aarch64.dmg) |
-| **macOS (Intel)** | `.dmg` | Intel (x86_64) | [**Download DMG (x64)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_x64.dmg) |
+| **macOS (Intel)** | `.dmg` | Intel x86_64 | [**Download DMG (x64)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_x64.dmg) |
 | **Windows** | `.exe` | 64-bit installer | [**Download Setup (.exe)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_x64-setup.exe) |
 | **Windows** | `.msi` | 64-bit MSI package | [**Download Package (.msi)**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_x64_en-US.msi) |
 | **Linux** | `.AppImage` | x86_64 portable | [**Download AppImage**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_amd64.AppImage) |
