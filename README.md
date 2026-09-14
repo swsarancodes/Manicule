@@ -83,7 +83,7 @@ The plain Markdown text in CodeMirror 6 is the only document model. We conceal s
 
 ```
 +--------------------------------------------------------------+
-| L1  EDITOR CORE          CodeMirror 6 + Lezer                |
+| L1  EDITOR CORE          CodeMirror 6 + Lezer parser         |
 |     buffer · caret · decorations · undo/redo · atomicRanges  |
 +--------------------------------------------------------------+
 | L2  MARKDOWN PIPELINE    Lezer md grammar + GFM extensions   |
