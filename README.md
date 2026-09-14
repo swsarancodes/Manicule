@@ -31,7 +31,7 @@ Grab the latest stable desktop build for macOS, Windows, and Linux from [**GitHu
 > **macOS first-launch note (Gatekeeper)**  
 > Manicule is unsigned (no paid Apple Developer certificate), so Gatekeeper may warn on first open.  
 > - **Option 1**: Right-click (or Control-click) `Manicule.app` in `/Applications`, choose **Open**, then click **Open**.  
-> - **Option 2**: Run in Terminal:
+> - **Option 2**: Clear quarantine in Terminal:
 >   ```bash
 >   xattr -d com.apple.quarantine /Applications/Manicule.app
 >   ```
