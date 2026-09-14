@@ -2,7 +2,7 @@
 
 > An open-source, distraction-free Markdown writing studio.
 
-Manicule edits Markdown **visually** — with no preview pane, no compile step, and no AST serialization — while treating your `.md` file as the single source of truth. Bytes you don't touch are bytes we don't rewrite.
+Manicule edits Markdown **visually** — no preview pane, no compile step, and no AST serialization — while treating your `.md` file as the single source of truth. Bytes you don't touch are bytes we don't rewrite.
 
 [![GitHub Release](https://img.shields.io/github/v/release/swsarancodes/Maincule?color=orange&label=Release)](https://github.com/swsarancodes/Maincule/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
