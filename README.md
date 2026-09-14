@@ -13,7 +13,7 @@ plain .md on disk  ·  no account  ·  no telemetry  ·  works offline  ·  Git-
 
 ---
 
-## Download
+## Downloads
 
 Get the latest stable desktop build for macOS, Windows, and Linux from [**GitHub Releases**](https://github.com/swsarancodes/Maincule/releases/latest):
 
