@@ -28,7 +28,7 @@ Get the latest stable desktop build for macOS, Windows, and Linux from [**GitHub
 | **Linux** | `.deb` | Ubuntu / Debian package | [**Download .deb**](https://github.com/swsarancodes/Maincule/releases/download/v0.6.2/Manicule_0.6.2_amd64.deb) |
 
 > [!TIP]
-> **macOS First-Launch Note (Gatekeeper)**  
+> **macOS first-launch note (Gatekeeper)**  
 > Because Manicule is a community open-source project without a paid Apple Developer certificate, macOS Gatekeeper may show a warning the first time you open the app.  
 > - **Option 1**: Right-click (or Control-click) `Manicule.app` in `/Applications` and select **Open**, then click **Open**.  
 > - **Option 2**: Run in Terminal:
